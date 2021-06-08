@@ -8,4 +8,4 @@ The K-means clustering is an unsupervised machine learning algorithm that is use
 Code:
 In this code we have 12 data 12 data between 0-20 and we choosed k as 3 to find 3 clusters. 
 
-<img src="Image/code.png" width="300" class="center" />
+<img src="Image/Code.png" width="300" class="center" />
